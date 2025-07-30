@@ -1,0 +1,14 @@
+# Python
+*.pyc
+*.pyo
+__pycache__
+# Ignore virtual environment directories
+venv/
+my-env/
+*.db
+*.log
+*.csv
+
+# IDEs
+.vscode/
+.idea/

@@ -1,0 +1,6 @@
+langchain
+qdrant-client
+fastapi
+thenlper
+requests
+uvicorn
